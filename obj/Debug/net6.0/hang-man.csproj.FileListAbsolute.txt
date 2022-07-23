@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/bin/Debug/net6.0/hang-man
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/bin/Debug/net6.0/hang-man.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/bin/Debug/net6.0/hang-man.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/bin/Debug/net6.0/hang-man.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/bin/Debug/net6.0/hang-man.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/refint/hang-man.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/hang-man.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Projects/01-hang-man/hang-man/obj/Debug/net6.0/ref/hang-man.dll
